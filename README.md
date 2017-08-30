@@ -1,4 +1,3 @@
-# testhubot
-a demo repo for testing hubot connectivity with git
-This line is added by the slave branch
+# Sonar
+Sonar zip with its fuether functionality
 All zips updated successfully
