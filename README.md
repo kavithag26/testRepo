@@ -1,3 +1,3 @@
-# Sonar
-Sonar zip with its fuether functionality
+# GitLab Bot
+Gitlab bot with all functionality
 All zips updated successfully
